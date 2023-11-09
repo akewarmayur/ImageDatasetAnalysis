@@ -247,7 +247,7 @@ class DatsetAnalysis:
         for k, v in s1Results.items():
             try:
                 le = len(res)
-                res.loc[le] = [v, s2Results[k], s3Results[k], ObjectResults[k], ObjectCountResults[k],
+                res.loc[le] = [k, v, s2Results[k], s3Results[k], ObjectResults[k], ObjectCountResults[k],
                                people_count_results[k],
                                activities_content_results[k],
                                ageResults[k],
