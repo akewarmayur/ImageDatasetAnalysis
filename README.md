@@ -16,7 +16,7 @@ python "main.py" --folder_name name_of_folder --threshold 20 --objectsFile "" --
 ### Citation
 If you find this code useful in your research, please consider citing it as:
 ```
-@misc{akewarmayur/PromptsContentModeration,
+@misc{akewarmayur/ImageDatasetAnalysis,
   author = {Mayur Akewar, Dr. Rashmi Welekar},
   title = {ImageDatasetAnalysis},
   year = {2023},
