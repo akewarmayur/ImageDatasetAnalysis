@@ -1,0 +1,10 @@
+people_count = {"image containing single person": "single",
+                "image containing closeup of face": "single",
+                "image containing couple, two people, or two person": "couple",
+                "image containing a man and a woman": "couple",
+                "image containing group of people, gathering": "group",
+                "image containing three or more people, group": "group",
+                "a photo of others": "others",
+                "image of entire black screen": "others",
+                "a photo of unidentified object": "others",
+                }

@@ -1,0 +1,196 @@
+,image_name,settings1,settings2,settings3,objects,objects count,people count,activities_content,age,gender,race,quality
+0,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_001.jpg,others,low light,closeup,person,1,single,others,"adult,others","male,male","white,others",bright
+1,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_002.jpg,bathroom,others,rear,person,1,single,standing,others,others,others,bright
+2,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_003.jpg,dark place,low light,closeup,person,1,single,others,others,others,others,dark
+3,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_004.jpg,nightclub,red light,others,person,2,couple,others,others,others,others,dark
+4,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_005.jpg,nightclub,blue light,others,others,0,others,others,others,others,others,bright
+5,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_006.jpg,nightclub,red light,closeup,bottle,1,single,substance use,others,male,white,bright
+6,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_007.jpg,nightclub,red light,others,person,3,group,NSFW,others,others,others,bright
+7,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_008.jpg,nightclub,red light,closeup,person,1,single,others,adult,female,black,bright
+8,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_009.jpg,others,red light,side,person,1,single,still,others,others,others,bright
+9,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_010.jpg,others,others,closeup,person,1,single,standing,adult,female,white,bright
+10,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_011.jpg,nightclub,red light,others,person,3,group,substance use,others,others,others,bright
+11,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_012.jpg,nightclub,red light,closeup,person,1,single,standing,adult,female,white,dark
+12,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_013.jpg,bar,red light,others,bottle,1,couple,substance use,others,others,others,bright
+13,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_014.jpg,others,red light,side,person,1,single,expressions,adult,female,white,dark
+14,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_015.jpg,shop,low light,others,car,1,others,group activity,others,others,others,bright
+15,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_016.jpg,others,red light,closeup,pesron,1,couple,others,others,female,white,bright
+16,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_017.jpg,vehicles,day time,others,airplane,1,couple,still,others,others,others,bright
+17,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_018.jpg,nightclub,blue light,side,person,1,couple,others,"teen,teen,adult,others,adult","female,female,male,male,female","white,white,white,white,asian",bright
+18,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_019.jpg,blurry place,red light,others,person,1,single,others,others,others,others,bright
+19,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_020.jpg,nightclub,red light,closeup,person,3,couple,others,"others,adult,adult,adult,teen","female,male,male,female,female","white,white,white,white,asian",dark
+20,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_021.jpg,nightclub,blue light,others,person,1,single,others,others,others,others,bright
+21,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_022.jpg,others,blue light,closeup,person,1,single,expressions,adult,female,white,bright
+22,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_023.jpg,blurry place,red light,others,person,1,single,others,others,others,others,bright
+23,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_024.jpg,nightclub,red light,others,others,0,group,NSFW,others,others,others,bright
+24,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_025.jpg,nightclub,red light,others,person,2,couple,standing,others,others,others,bright
+25,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_026.jpg,bedroom,others,front,bed,1,couple,still,others,others,others,bright
+26,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_027.jpg,others,others,front,person,1,couple,playing instrument,others,others,others,bright
+27,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_028.jpg,bar,others,others,dining table,2,couple,talking,others,others,others,bright
+28,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_029.jpg,others,red light,side,person,1,single,talking,adult,male,white,bright
+29,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_030.jpg,buildings,others,others,others,0,group,still,others,others,others,bright
+30,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_031.jpg,others,others,side,person,1,single,standing,adult,male,white,bright
+31,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_032.jpg,others,others,side,person,1,single,others,adult,male,white,bright
+32,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_033.jpg,others,others,others,others,0,couple,NSFW,others,others,others,bright
+33,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_034.jpg,nightclub,red light,closeup,person,1,couple,NSFW,others,female,asian,bright
+34,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_035.jpg,blurry place,red light,side,baseball bat,1,single,singing,adult,female,white,dark
+35,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_036.jpg,others,red light,others,person,1,single,others,"adult,adult","male,male","white,white",bright
+36,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_037.jpg,blurry place,red light,others,person,1,single,singing,teen,female,white,bright
+37,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_038.jpg,blurry place,low light,others,others,0,couple,others,others,male,others,dark
+38,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_039.jpg,others,others,others,person,3,group,others,others,others,others,bright
+39,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_040.jpg,others,others,closeup,person,2,couple,standing,others,others,others,bright
+40,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_041.jpg,bathroom,others,others,others,0,couple,others,others,others,others,bright
+41,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_042.jpg,nightclub,red light,closeup,person,1,single,others,adult,female,white,bright
+42,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_043.jpg,jungle,others,others,potted plant,2,couple,still,others,others,others,bright
+43,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_044.jpg,street,day time,others,potted plant,2,couple,others,others,others,others,bright
+44,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_045.jpg,others,others,closeup,perosn,1,single,others,others,others,others,bright
+45,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_046.jpg,street,others,others,person,1,others,others,others,others,others,bright
+46,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_047.jpg,blurry place,others,others,person,1,couple,others,others,others,others,bright
+47,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_048.jpg,others,red light,others,others,0,single,others,others,female,white,bright
+48,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_049.jpg,nightclub,red light,closeup,others,0,couple,others,others,others,others,bright
+49,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_050.jpg,nightclub,blue light,others,others,0,group,others,others,others,others,bright
+50,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_051.jpg,others,others,others,others,0,couple,standing,adult,female,white,bright
+51,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_052.jpg,restaurant,others,others,others,0,couple,others,others,others,others,bright
+52,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_053.jpg,others,red light,side,others,0,single,driving,adult,male,white,bright
+53,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_054.jpg,others,low light,side,others,0,single,NSFW,others,female,white,bright
+54,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_055.jpg,others,red light,closeup,others,0,single,others,adult,male,white,bright
+55,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_056.jpg,nightclub,red light,others,others,0,couple,singing,others,others,others,bright
+56,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_057.jpg,blurry place,low light,others,others,0,others,violence,others,others,others,dark
+57,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_058.jpg,dark place,night time,closeup,others,0,others,sleeping,others,others,others,dark
+58,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_059.jpg,jungle,low light,others,a photo of couch,1,couple,playing instrument,others,others,others,bright
+59,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_060.jpg,blurry place,low light,closeup,others,0,others,violence,others,others,others,bright
+60,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_061.jpg,nightclub,red light,others,others,0,group,NSFW,others,others,others,bright
+61,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_062.jpg,bedroom,red light,closeup,a photo of bed,1,couple,others,others,others,others,dark
+62,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_063.jpg,nightclub,low light,closeup,others,0,single,others,adult,female,white,bright
+63,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_064.jpg,blurry place,others,others,others,0,couple,others,adult,female,white,bright
+64,/content/gdrive/MyDrive/DatasetAnalysis/data/A_Star_Is_Born_(2018)_065.jpg,others,others,side,others,0,single,still,others,others,others,bright
+65,/content/gdrive/MyDrive/DatasetAnalysis/data/ai001.jpg,others,others,front,others,0,single,still,others,others,others,bright
+66,/content/gdrive/MyDrive/DatasetAnalysis/data/ai002.jpg,dark place,others,others,a photo of person,1,group,others,"adult,teen,adult,teen","female,male,male,male","black,white,asian,black",bright
+67,/content/gdrive/MyDrive/DatasetAnalysis/data/ai003.jpg,others,others,side,others,0,single,violence,"adult,others","female,male","white,white",bright
+68,/content/gdrive/MyDrive/DatasetAnalysis/data/ai004.jpg,others,red light,others,a photo of train,1,others,still,others,others,others,bright
+69,/content/gdrive/MyDrive/DatasetAnalysis/data/ai005.jpg,others,others,side,others,0,single,standing,others,others,others,bright
+70,/content/gdrive/MyDrive/DatasetAnalysis/data/ai006.jpg,others,others,others,others,0,single,others,kid,male,white,bright
+71,/content/gdrive/MyDrive/DatasetAnalysis/data/ai007.jpg,others,others,others,others,0,group,others,"kid,teen,adult,adult,teen","male,female,female,male,male","white,asian,white,white,white",bright
+72,/content/gdrive/MyDrive/DatasetAnalysis/data/ai008.jpg,others,blue light,side,others,0,single,standing,others,others,others,bright
+73,/content/gdrive/MyDrive/DatasetAnalysis/data/ai009.jpg,others,others,side,others,0,single,still,kid,male,white,bright
+74,/content/gdrive/MyDrive/DatasetAnalysis/data/ai010.jpg,restaurant,others,others,"a photo of bed,a photo of sink,a photo of dining table",3,others,talking,others,others,others,bright
+75,/content/gdrive/MyDrive/DatasetAnalysis/data/ai011.jpg,others,low light,side,others,0,single,talking,adult,male,white,bright
+76,/content/gdrive/MyDrive/DatasetAnalysis/data/ai012.jpg,bedroom,blue light,closeup,others,0,couple,sleeping,others,others,others,bright
+77,/content/gdrive/MyDrive/DatasetAnalysis/data/ai013.jpg,others,others,others,others,0,couple,talking,others,others,others,bright
+78,/content/gdrive/MyDrive/DatasetAnalysis/data/ai014.jpg,others,low light,others,others,0,couple,others,adult,female,white,bright
+79,/content/gdrive/MyDrive/DatasetAnalysis/data/ai015.jpg,house,low light,others,others,0,single,standing,others,others,others,dark
+80,/content/gdrive/MyDrive/DatasetAnalysis/data/ai016.jpg,jungle,day time,closeup,others,0,others,still,others,others,others,bright
+81,/content/gdrive/MyDrive/DatasetAnalysis/data/ai017.jpg,bedroom,blue light,front,"a photo of bed,a photo of book",2,couple,others,kid,female,others,bright
+82,/content/gdrive/MyDrive/DatasetAnalysis/data/ai018.jpg,others,low light,others,others,0,others,others,others,others,others,dark
+83,/content/gdrive/MyDrive/DatasetAnalysis/data/ai019.jpg,others,others,side,others,0,single,substance use,kid,male,white,bright
+84,/content/gdrive/MyDrive/DatasetAnalysis/data/ai020.jpg,others,others,side,others,0,single,standing,kid,male,white,bright
+85,/content/gdrive/MyDrive/DatasetAnalysis/data/ai021.jpg,others,low light,others,others,0,couple,standing,others,others,others,bright
+86,/content/gdrive/MyDrive/DatasetAnalysis/data/ai022.jpg,swimming pool,day time,front,others,0,single,clothing,kid,male,white,bright
+87,/content/gdrive/MyDrive/DatasetAnalysis/data/ai023.jpg,swimming pool,others,closeup,others,0,others,others,others,others,others,bright
+88,/content/gdrive/MyDrive/DatasetAnalysis/data/ai024.jpg,others,others,others,others,0,couple,others,others,others,others,bright
+89,/content/gdrive/MyDrive/DatasetAnalysis/data/ai025.jpg,jungle,others,others,others,0,couple,hiking,others,others,others,bright
+90,/content/gdrive/MyDrive/DatasetAnalysis/data/ai026.jpg,others,red light,others,others,0,others,standing,others,others,others,bright
+91,/content/gdrive/MyDrive/DatasetAnalysis/data/ai027.jpg,nightclub,red light,others,others,0,group,others,others,others,others,bright
+92,/content/gdrive/MyDrive/DatasetAnalysis/data/ai028.jpg,others,red light,side,others,0,single,standing,adult,male,white,dark
+93,/content/gdrive/MyDrive/DatasetAnalysis/data/ai029.jpg,bedroom,red light,front,others,0,couple,others,adult,male,white,bright
+94,/content/gdrive/MyDrive/DatasetAnalysis/data/ai030.jpg,nightclub,blue light,side,others,0,single,others,adult,male,white,dark
+95,/content/gdrive/MyDrive/DatasetAnalysis/data/ai031.jpg,dark place,blue light,closeup,others,0,single,others,adult,male,white,bright
+96,/content/gdrive/MyDrive/DatasetAnalysis/data/ai032.jpg,dark place,blue light,others,others,0,others,others,others,others,others,bright
+97,/content/gdrive/MyDrive/DatasetAnalysis/data/ai033.jpg,nightclub,blue light,closeup,others,0,others,others,others,others,others,bright
+98,/content/gdrive/MyDrive/DatasetAnalysis/data/ai034.jpg,others,others,closeup,others,0,couple,others,others,others,others,dark
+99,/content/gdrive/MyDrive/DatasetAnalysis/data/ai035.jpg,sports field,others,others,others,0,group,others,others,others,others,bright
+100,/content/gdrive/MyDrive/DatasetAnalysis/data/ai036.jpg,others,others,others,others,0,group,others,adult,male,white,bright
+101,/content/gdrive/MyDrive/DatasetAnalysis/data/ai037.jpg,dark place,low light,closeup,others,0,couple,enjoying,"infant,adult","male,male","white,white",dark
+102,/content/gdrive/MyDrive/DatasetAnalysis/data/ai038.jpg,park,others,others,others,0,group,human and animal activity,others,others,others,bright
+103,/content/gdrive/MyDrive/DatasetAnalysis/data/ai039.jpg,others,blue light,closeup,others,0,others,violence,others,others,others,dark
+104,/content/gdrive/MyDrive/DatasetAnalysis/data/ai040.jpg,others,red light,others,others,0,group,others,"adult,teen,teen,teen,adult","male,male,male,male,male","asian,white,white,white,asian",bright
+105,/content/gdrive/MyDrive/DatasetAnalysis/data/ai041.jpg,nightclub,others,others,others,0,group,others,others,male,white,bright
+106,/content/gdrive/MyDrive/DatasetAnalysis/data/ai042.jpg,others,blue light,others,a photo of teddy bear,1,others,enjoying,others,others,others,bright
+107,/content/gdrive/MyDrive/DatasetAnalysis/data/ai043.jpg,others,blue light,side,a photo of teddy bear,1,couple,human and animal activity,teen,male,white,bright
+108,/content/gdrive/MyDrive/DatasetAnalysis/data/ai044.jpg,buildings,others,others,a photo of background,1,others,violence,others,others,others,bright
+109,/content/gdrive/MyDrive/DatasetAnalysis/data/ai045.jpg,nightclub,blue light,closeup,others,0,others,still,others,others,others,bright
+110,/content/gdrive/MyDrive/DatasetAnalysis/data/ai046.jpg,others,blue light,side,others,0,single,others,adult,male,white,bright
+111,/content/gdrive/MyDrive/DatasetAnalysis/data/ai047.jpg,blurry place,low light,others,a photo of book,1,couple,others,others,others,others,bright
+112,/content/gdrive/MyDrive/DatasetAnalysis/data/ai048.jpg,dark place,others,front,others,0,couple,others,others,others,others,dark
+113,/content/gdrive/MyDrive/DatasetAnalysis/data/ai049.jpg,dark place,others,front,others,0,group,substance use,others,others,others,bright
+114,/content/gdrive/MyDrive/DatasetAnalysis/data/ai050.jpg,others,others,others,others,0,others,standing,others,others,others,bright
+115,/content/gdrive/MyDrive/DatasetAnalysis/data/ai051.jpg,others,blue light,side,others,0,single,still,kid,male,white,bright
+116,/content/gdrive/MyDrive/DatasetAnalysis/data/ai052.jpg,others,others,others,a photo of book,1,others,talking,others,others,others,bright
+117,/content/gdrive/MyDrive/DatasetAnalysis/data/ai053.jpg,others,others,closeup,others,0,single,others,others,others,others,bright
+118,/content/gdrive/MyDrive/DatasetAnalysis/data/ai054.jpg,ocean,blue light,rear,others,0,single,clothing,others,others,others,bright
+119,/content/gdrive/MyDrive/DatasetAnalysis/data/ai055.jpg,dark place,blue light,others,others,0,group,others,others,others,others,bright
+120,/content/gdrive/MyDrive/DatasetAnalysis/data/ai056.jpg,others,others,side,others,0,single,others,kid,female,white,dark
+121,/content/gdrive/MyDrive/DatasetAnalysis/data/ai057.jpg,others,blue light,side,others,0,single,others,teen,male,white,dark
+122,/content/gdrive/MyDrive/DatasetAnalysis/data/ai058.jpg,dark place,blue light,closeup,others,0,others,still,others,others,others,bright
+123,/content/gdrive/MyDrive/DatasetAnalysis/data/ai059.jpg,dark place,blue light,closeup,others,0,group,still,others,others,others,bright
+124,/content/gdrive/MyDrive/DatasetAnalysis/data/ai060.jpg,others,blue light,side,others,0,single,others,others,others,others,bright
+125,/content/gdrive/MyDrive/DatasetAnalysis/data/ai061.jpg,others,blue light,others,others,0,single,others,teen,male,white,bright
+126,/content/gdrive/MyDrive/DatasetAnalysis/data/ai062.jpg,others,blue light,side,others,0,single,others,kid,male,white,bright
+127,/content/gdrive/MyDrive/DatasetAnalysis/data/ai063.jpg,dark place,blue light,others,others,0,others,standing,others,others,others,bright
+128,/content/gdrive/MyDrive/DatasetAnalysis/data/ai064.jpg,bedroom,day time,side,others,0,single,NSFW,teen,female,white,bright
+129,/content/gdrive/MyDrive/DatasetAnalysis/data/ai065.jpg,others,low light,closeup,a photo of cake,1,single,others,teen,female,white,bright
+130,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver001.jpg,buildings,others,closeup,a photo of parking meter,1,others,still,others,others,others,bright
+131,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver002.jpg,others,red light,side,others,0,single,others,adult,male,white,bright
+132,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver003.jpg,others,others,others,a photo of car,1,group,walking,others,others,others,bright
+133,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver004.jpg,street,red light,closeup,a photo of car,1,single,still,others,others,others,bright
+134,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver005.jpg,sports field,red light,others,a photo of clock,1,single,still,others,others,others,bright
+135,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver006.jpg,street,red light,others,a photo of car,1,others,still,others,others,others,bright
+136,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver007.jpg,vehicles,red light,closeup,a photo of car,1,single,still,others,others,others,bright
+137,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver008.jpg,buildings,others,closeup,others,0,others,still,others,others,others,bright
+138,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver009.jpg,others,others,front,others,0,couple,others,others,others,others,bright
+139,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver010.jpg,laboratory,others,others,others,0,single,others,others,others,others,bright
+140,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver011.jpg,others,others,side,"a photo of tie,a photo of bottle",2,group,others,"adult,adult","male,male","white,white",bright
+141,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver012.jpg,others,others,others,others,0,single,others,others,others,others,bright
+142,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver013.jpg,nightclub,low light,others,a photo of bed,1,single,others,adult,male,white,bright
+143,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver014.jpg,blurry place,red light,others,others,0,single,standing,teen,female,white,bright
+144,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver015.jpg,others,others,side,others,0,single,others,kid,male,white,bright
+145,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver016.jpg,street,blue light,others,others,0,single,standing,teen,male,white,bright
+146,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver017.jpg,restaurant,others,others,others,0,couple,talking,others,others,others,bright
+147,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver018.jpg,others,others,side,others,0,single,still,teen,female,white,bright
+148,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver019.jpg,others,others,side,others,0,single,others,others,others,others,bright
+149,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver020.jpg,vehicles,blue light,others,others,0,group,others,"adult,adult,teen,others","male,male,male,male","white,black,asian,black",bright
+150,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver021.jpg,others,others,side,others,0,single,driving,others,male,asian,bright
+151,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver022.jpg,others,blue light,side,others,0,single,others,adult,male,white,dark
+152,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver023.jpg,nightclub,red light,others,a photo of wine glass,1,couple,others,others,others,others,bright
+153,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver024.jpg,nightclub,blue light,front,others,0,single,others,"kid,others","male,male","white,black",bright
+154,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver025.jpg,restaurant,others,others,others,0,couple,talking,others,others,others,bright
+155,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver026.jpg,others,others,others,others,0,couple,others,teen,male,white,bright
+156,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver027.jpg,bar,night time,others,a photo of pizza,1,others,still,others,others,others,bright
+157,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver028.jpg,others,night time,side,others,0,single,others,teen,male,white,bright
+158,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver029.jpg,nightclub,low light,others,a photo of wine glass,1,couple,substance use,others,others,others,bright
+159,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver030.jpg,nightclub,others,others,a photo of tie,1,couple,others,adult,male,white,dark
+160,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver031.jpg,nightclub,low light,closeup,others,0,couple,NSFW,teen,female,white,bright
+161,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver032.jpg,others,red light,others,others,0,couple,others,adult,male,white,bright
+162,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver033.jpg,laboratory,blue light,front,others,0,group,substance use,others,others,others,bright
+163,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver034.jpg,vehicles,others,front,others,0,others,others,others,others,others,bright
+164,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver035.jpg,others,red light,others,others,0,couple,others,"adult,adult,adult","male,male,female","white,black,asian",bright
+165,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver036.jpg,others,red light,others,others,0,couple,substance use,"adult,adult","male,female","white,white",bright
+166,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver037.jpg,blurry place,low light,others,a photo of truck,1,others,others,others,others,others,bright
+167,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver038.jpg,others,others,side,others,0,single,still,others,female,white,bright
+168,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver039.jpg,others,others,side,others,0,single,still,teen,male,white,bright
+169,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver040.jpg,bar,red light,others,others,0,couple,talking,others,others,others,bright
+170,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver041.jpg,others,others,closeup,others,0,single,violence,others,female,white,bright
+171,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver042.jpg,others,others,others,others,0,others,substance use,others,others,others,dark
+172,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver043.jpg,bar,blue light,others,others,0,couple,substance use,adult,male,white,bright
+173,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver044.jpg,others,blue light,side,others,0,single,others,adult,male,white,bright
+174,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver045.jpg,others,others,side,others,0,single,others,adult,male,white,bright
+175,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver046.jpg,others,blue light,side,a photo of tie,1,single,others,adult,male,white,bright
+176,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver047.jpg,others,red light,closeup,others,0,single,others,adult,male,white,dark
+177,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver048.jpg,nightclub,blue light,closeup,others,0,single,violence,others,others,others,bright
+178,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver049.jpg,nightclub,blue light,closeup,others,0,single,violence,adult,male,white,bright
+179,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver050.jpg,others,red light,others,others,0,couple,others,"teen,adult","female,male","white,white",dark
+180,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver051.jpg,others,red light,side,others,0,single,others,others,others,others,dark
+181,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver052.jpg,others,blue light,others,others,0,single,others,adult,male,white,bright
+182,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver053.jpg,others,others,others,others,0,single,others,adult,male,white,bright
+183,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver054.jpg,nightclub,blue light,closeup,others,0,others,others,others,others,others,dark
+184,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver055.jpg,blurry place,others,others,others,0,couple,talking,"others,teen","female,female","white,white",bright
+185,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver056.jpg,others,others,others,others,0,others,still,others,others,others,bright
+186,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver057.jpg,street,day time,others,others,0,couple,standing,others,others,others,bright
+187,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver058.jpg,others,others,closeup,others,0,single,substance use,others,others,others,bright
+188,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver059.jpg,others,others,side,others,0,single,still,adult,female,white,bright
+189,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver060.jpg,others,others,others,"a photo of bed,a photo of person,a photo of cup",3,single,still,"teen,adult,adult","male,male,male","white,black,white",bright
+190,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver061.jpg,others,others,side,a photo of tie,1,single,others,others,male,white,bright
+191,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver062.jpg,dark place,others,others,others,0,single,substance use,others,others,others,bright
+192,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver063.jpg,others,blue light,side,others,0,single,standing,adult,male,white,bright
+193,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver064.jpg,others,day time,others,others,0,couple,talking,others,others,others,bright
+194,/content/gdrive/MyDrive/DatasetAnalysis/data/babydriver065.jpg,others,day time,side,others,0,couple,affection,others,others,others,bright
