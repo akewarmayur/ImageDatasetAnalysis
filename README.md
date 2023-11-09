@@ -15,8 +15,6 @@ python "main.py" --folder_name name_of_folder --threshold 20 --objectsFile "" --
 
 ### Citation
 If you find this code useful in your research, please consider citing it as:
-"""
-If you use this code in your research, please cite it as:
 ```
 @misc{YourGitHubUsername/YourRepoName,
   author = {Mayur Akewar, Dr. Rashmi Welekar},
