@@ -237,38 +237,33 @@ class DatsetAnalysis:
         list_of_images.sort(key=self.natural_keys)
         print(list_of_images)
         s1Results, s2Results, s3Results = self.settings(list_of_images, threshold, model, preprocess)
-        # activities_content_results = self.activities_content(list_of_images, threshold, model, preprocess)
+        activities_content_results = self.activities_content(list_of_images, threshold, model, preprocess)
         people_count_results = self.people_count(list_of_images, threshold, model, preprocess)
         ageResults, raceResults, genderResults = self.demographics(people_count_results, threshold, model, preprocess)
-        # qualityResults = self.quality_black_bright(list_of_images)
-        # ObjectResults, ObjectCountResults = self.objects_analysis(list_of_images, model, preprocess, list_of_objects)
-        # dfDuplicate = self.qualityDuplicates(image_directory)
-        # dfResolution = self.qualityResolution(image_directory, threshold_width, threshold_height)
+        qualityResults = self.quality_black_bright(list_of_images)
+        ObjectResults, ObjectCountResults = self.objects_analysis(list_of_images, model, preprocess, list_of_objects)
+        dfDuplicate = self.qualityDuplicates(image_directory)
+        dfResolution = self.qualityResolution(image_directory, threshold_width, threshold_height)
         for k, v in s1Results.items():
             try:
                 le = len(res)
-                # res.loc[le] = [v, s2Results[k], s3Results[k], ObjectResults[k], ObjectCountResults[k],
-                #                people_count_results[k],
-                #                activities_content_results[k],
-                #                ageResults[k],
-                #                genderResults[k], raceResults[k], qualityResults[k]]
-
-                res.loc[le] = [k, v, s2Results[k], s3Results[k], "ObjectResults[k]", "ObjectCountResults[k]",
-                               "people_count_results[k]",
-                               "activities_content_results[k]",
+                res.loc[le] = [v, s2Results[k], s3Results[k], ObjectResults[k], ObjectCountResults[k],
+                               people_count_results[k],
+                               activities_content_results[k],
                                ageResults[k],
-                               genderResults[k], raceResults[k], "qualityResults[k]"]
+                               genderResults[k], raceResults[k], qualityResults[k]]
+
+                # res.loc[le] = [k, v, s2Results[k], s3Results[k], "ObjectResults[k]", "ObjectCountResults[k]",
+                #                "people_count_results[k]",
+                #                "activities_content_results[k]",
+                #                ageResults[k],
+                #                genderResults[k], raceResults[k], "qualityResults[k]"]
             except:
                 pass
-            # except:
-            #     res.loc[le] = [k, "", "", "s3Results[k]", "ObjectResults[k]", "ObjectCountResults[k]",
-            #                    "people_count_results[k]",
-            #                    "activities_content_results[k]",
-            #                    "ageResults[k]",
-            #                    "genderResults[k]", "raceResults[k]", "qualityResults[k]"]
+
         res.to_csv("Results/DataAnalysis11.csv")
-        # dfDuplicate.to_csv("Results/DuplicateImages.csv")
-        # dfResolution.to_csv("Results/ImagesResolution.csv")
+        dfDuplicate.to_csv("Results/DuplicateImages.csv")
+        dfResolution.to_csv("Results/ImagesResolution.csv")
 
 
 if __name__ == '__main__':
