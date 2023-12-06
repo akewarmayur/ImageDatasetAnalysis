@@ -1,4 +1,5 @@
 # Image Dataset Analysis and Quality Assurance
+### Implementation of the paper "Content Moderation of Generative AI Prompts, Springer’s SN Computer Science, 2023"
 This is the repository for checking the quality and content of any image dataset.
 #### Details
 Data content analysis and quality assurance methodology involve the systematic examination of data to assess its accuracy, consistency, and relevance. We proposed the framework for analyzing data based on image settings, demographic attributes, object counting and identification, image quality, activities involved, and ill-suited content. This approach helps ensure that the data is free from errors and meets the specific criteria and standards necessary for reliable analysis, dataset cleaning and decision-making for the model training or other use cases.
